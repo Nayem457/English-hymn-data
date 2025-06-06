@@ -95,4 +95,13 @@
       "I will pour Your praise from my mouth (2)"
     ]
   }
+  {
+  "id": 999,
+  "title": "Test Hymn Remote",
+  "categories": ["General"],
+  "lyrics": [
+    "This is just a test line",
+    "If you see me, remote fetch worked!"
+  ]
+}
 ]
