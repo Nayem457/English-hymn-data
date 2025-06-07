@@ -19,7 +19,7 @@
       "For you’ve begotten their Master Jesus",
       "",
       "The adorned temple of God",
-      "The queen who will stand upon God’s right side   (psalm 45:9)",
+      "The queen who will stand upon God’s right side   (Psalm 45:9)",
       "When Eve sinned we were exiled",
       "But we’re given a mother who’s our pride   (John 1:27)"
     ]
@@ -94,14 +94,14 @@
       "I walk in Christ in the days of my youth",
       "I will pour Your praise from my mouth (2)"
     ]
-  }
+  },
   {
-  "id": 4,
-  "title": "Test Hymn Remote",
-  "categories": ["General"],
-  "lyrics": [
-    "This is just a test line",
-    "If you see me, remote fetch worked!"
-  ]
-}
+    "id": 4,
+    "title": "Test Hymn Remote",
+    "categories": ["General"],
+    "lyrics": [
+      "This is just a test line",
+      "If you see me, remote fetch worked!"
+    ]
+  }
 ]
