@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "The Purest of the Pure",
-    "categories": ["Graduation", "Holy Matrimony"],
+    "categories": ["Graduation"],
     "lyrics": [
       "The garden enclosed my dove   (Songs of Solomon 4:12)",
       "There is no spot unto you or blemish",
@@ -27,7 +27,7 @@
   {
     "id": 2,
     "title": "I won't Forget",
-    "categories": ["Holy Matrimony"],
+    "categories": [""],
     "lyrics": [
       "I won’t forget what you did for me",
       "",
